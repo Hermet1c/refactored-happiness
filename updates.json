@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "paths": [
+        "index.js",
+        "package.json",
+        "package-lock.json",
+        "modules/account.js",
+        "modules/encrypt.js",
+        "modules/log.js",
+        "modules/messageBuilder.js",
+        "modules/prompt.js"
+    ]
+}
